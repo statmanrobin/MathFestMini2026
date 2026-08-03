@@ -1,23 +1,44 @@
 [
   {
+    "objectID": "Day2.html",
+    "href": "Day2.html",
+    "title": "Day 2 - Saturday, August 8th",
+    "section": "",
+    "text": "To Be Written"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "About Me",
+    "title": "Day 1 - Thursday, August 6th",
     "section": "",
-    "text": "Thanks for checking out my web site!"
+    "text": "MAA 2026 Minicourse materials for:"
   },
   {
-    "objectID": "projects.html#project-2",
-    "href": "projects.html#project-2",
-    "title": "Projects",
-    "section": "Project 2",
-    "text": "Project 2"
+    "objectID": "index.html#gaise-recommendations-for-intro-stat-improving-understanding-and-success-rates",
+    "href": "index.html#gaise-recommendations-for-intro-stat-improving-understanding-and-success-rates",
+    "title": "Day 1 - Thursday, August 6th",
+    "section": "GAISE Recommendations for Intro Stat : Improving Understanding and Success Rates",
+    "text": "GAISE Recommendations for Intro Stat : Improving Understanding and Success Rates\n Patti Frazer Lock (plock@stlawu.edu)\n Robin Lock (rlock@stlawu.edu)"
   },
   {
-    "objectID": "projects.html#project-3",
-    "href": "projects.html#project-3",
-    "title": "Projects",
-    "section": "Project 3",
-    "text": "Project 3"
+    "objectID": "index.html#gaise-recommendations",
+    "href": "index.html#gaise-recommendations",
+    "title": "Day 1 - Thursday, August 6th",
+    "section": "GAISE Recommendations",
+    "text": "GAISE Recommendations\nUpdate to the GAISE Report: https://amstat.quarto.pub/college-gaise/\nTen GAISE Recommendations for Introductory Statistics and Data Science https://amstat.quarto.pub/college-gaise/recommendations.html Note: Click on a recommendation to bring up a more detailed explanation."
+  },
+  {
+    "objectID": "index.html#simulation-based-inference",
+    "href": "index.html#simulation-based-inference",
+    "title": "Day 1 - Thursday, August 6th",
+    "section": "Simulation Based Inference",
+    "text": "Simulation Based Inference\nStatKey https:\\\\lock5stat.com\\statkey apps for teaching with simulation based inference\nLefvre, T., et. al., “Beer Consumption Increases Human Attractiveness to Malaria Mosquitoes,” PLoS ONE, 2010; 5(3): e9546.\nSplit or Steal video https://econ.video/2017/08/24/golden-balls-split-or-steal/\nTim Hesterberg Articles: What Teachers Should Know About the Bootstrap: Resampling in the Undergraduate Statistics Curriculum\nOr find another version at https://arxiv.org/abs/1411.5279"
+  },
+  {
+    "objectID": "index.html#places-for-find-data",
+    "href": "index.html#places-for-find-data",
+    "title": "Day 1 - Thursday, August 6th",
+    "section": "Places for Find Data",
+    "text": "Places for Find Data\nGAISE Data Sources https://myslu.stlawu.edu/~rlock/DataSources.html\nLinks to data sources at CAUSE (Consortium for the Advancement of Undergraduate Statistics Education) https://www.causeweb.org/cause/resources/data-sources/\nSCORE Network https:\\\\scorenetwork.org Materials (datasets and activity modules) for teaching statistics and data science with sports examples\nProject 1 handout (Word) Data description\nProject 3 handout (Word) Simple and multiple linear regression"
   }
 ]

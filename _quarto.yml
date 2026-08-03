@@ -7,8 +7,8 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - projects.qmd
+        text: Day 1 - Thursday, August 6th
+      - Day2.qmd
     tools:
       - icon: twitter
         href: https://twitter.com/

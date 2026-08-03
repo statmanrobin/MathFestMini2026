@@ -1,19 +1,47 @@
 ---
-title: "About Me"
-about:
-  id: me
-  template: broadside
-  image: img/profile.png
+title: "Day 1 - Thursday, August 6th"
 ---
 
-:::{#me}
+MAA 2026 Minicourse materials for:
 
-## Goals
+## GAISE Recommendations for Intro Stat : Improving Understanding and Success Rates
 
-## Education
+![](img/plock.jpg){width="100"} Patti Frazer Lock ([plock\@stlawu.edu](plock@stlawu.edu))
 
-## Experience
+![](img/RLockPhotoSq.jpg){width="100"} Robin Lock ([rlock\@stlawu.edu](rlock@stlawu.edu))
 
-:::
+## GAISE Recommendations
 
-Thanks for checking out my web site!
+Update to the GAISE Report: <https://amstat.quarto.pub/college-gaise/>
+
+Ten GAISE Recommendations for Introductory Statistics and Data Science 
+<https://amstat.quarto.pub/college-gaise/recommendations.html> 
+Note: Click on a recommendation to bring up a more detailed explanation.
+
+## Simulation Based Inference
+
+StatKey <https:\\lock5stat.com\statkey> apps for teaching with simulation based inference
+
+Lefvre, T., et. al.,  “Beer Consumption Increases Human Attractiveness to Malaria Mosquitoes, ” PLoS ONE, 2010; 5(3): e9546.
+
+Split or Steal video <https://econ.video/2017/08/24/golden-balls-split-or-steal/>
+
+Tim Hesterberg Articles:
+[What Teachers Should Know About the Bootstrap: Resampling in the Undergraduate Statistics Curriculum
+](ttps://amstat.tandfonline.com/doi/abs/10.1080/00031305.2015.1089789#.WwQ6X4pG1hE)
+
+Or find another version at
+<https://arxiv.org/abs/1411.5279>
+
+## Places for Find Data
+
+GAISE Data Sources <https://myslu.stlawu.edu/~rlock/DataSources.html>
+
+Links to data sources at [CAUSE](https://causeweb.org/cause/) (Consortium for the Advancement of Undergraduate Statistics Education) <https://www.causeweb.org/cause/resources/data-sources/> 
+
+SCORE Network <https:\\scorenetwork.org> Materials (datasets and activity modules) for teaching statistics and data science with sports examples
+
+[Project 1 handout (Word)](Project1.docx)  Data description
+
+[Project 3 handout (Word)](Project3.docx) Simple and multiple linear regression
+
