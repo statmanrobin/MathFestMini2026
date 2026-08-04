@@ -14,9 +14,9 @@ MAA 2026 Minicourse materials for:
 
 GAISE Report (2016): <https://www.amstat.org/education/guidelines-for-assessment-and-instruction-in-statistics-education-(gaise)-reports>
 
-Update to the GAISE Report: <https://amstat.quarto.pub/college-gaise/>
+Update to the GAISE Report: <https://asacollegegaise.org>
 
-Ten GAISE Recommendations for Introductory Statistics and Data Science <https://amstat.quarto.pub/college-gaise/recommendations.html> Note: Click on a recommendation to bring up a more detailed explanation.
+Ten GAISE Recommendations for Introductory Statistics and Data Science <https://asacollegegaise.org/recommendations> Note: Click on a recommendation to bring up a more detailed explanation.
 
 ## Simulation Based Inference
 
