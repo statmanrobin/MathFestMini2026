@@ -30,5 +30,6 @@ Ten GAISE Recommendations for Introductory Statistics and Data Science <https://
 
 [Patti's Syllabus](PattiSyllabus.docx) Patti uses a flipped classroom and meets two days per week. 
 
+Handouts from Day 2 - will be added later
 
 PowerPoint slides for Day 2 - will be added later
