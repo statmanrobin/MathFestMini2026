@@ -2,6 +2,33 @@
 title: "Day 2 - Saturday, August 8th"
 ---
 
-Material will appear here on Saturday
+MAA 2026 Minicourse materials for:
+
+## GAISE Recommendations for Intro Stat : Improving Understanding and Success Rates
+
+Update to the GAISE Report: <https://asacollegegaise.org>
+
+Ten GAISE Recommendations for Introductory Statistics and Data Science <https://asacollegegaise.org/recommendations> Note: Click on a recommendation to bring up a more detailed explanation.
+
+**Gapminder**: <https://gapminder.org> with nice multivariate visualizations of country level data at <https://gapminder.org/tools>.
+
+**StatKey**: <https://lock5stat.com/statkey>
+
+**Correlation Guessing Game**: <https://istics.net/Correlations/>  Match scatterplots to numerical correlation values.
+
+### Some questions from Day 1:
+
+*More on using StatKey?*
+ 
+ [Instats StatKey seminar](https://instats.org/seminar/statkey---free-online-statistics-app-fre-1) - Requires signing up for a free account
+ 
+ <https://www.lock5stat.com/videos.html> Links to some (older) videos and webinars on teaching simulation based inference with StatKey
+
+*Topics/Syllabi for your course?*
+
+[Robin's Syllabus](RobinSyllabus.docx) Note: St. Lawrence courses meet three full hours per week and count as 3.75 credit hours for transfer purposes, so this covers more than a typical 3 credit course.
+
+[Patti's Syllabus](PattiSyllabus.docx) Patti uses a flipped classroom and meets two days per week. 
 
 
+PowerPoint slides for Day 2 - will be added later
