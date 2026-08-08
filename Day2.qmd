@@ -30,8 +30,8 @@ Ten GAISE Recommendations for Introductory Statistics and Data Science <https://
 
 [Patti's Syllabus](PattiSyllabus.docx) Patti uses a flipped classroom and meets two days per week. 
 
-Handouts from Day 2 - will be added later
+[Handout from Day 2](MinicourseDay2Handout.docx)
 
-PowerPoint slides for Day 2 - will be added later
+[PowerPoint slides for Day 2](MathFestLockMinicourse-Day2.pptx) 
 
 [MAA Minicourse Evaluation form](https://docs.google.com/forms/d/e/1FAIpQLSd2JNOT09AWYlI-5S8q4QyMTYsV0GKn0AV7R921rexumXgHuw/viewform)
