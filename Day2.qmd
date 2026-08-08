@@ -33,3 +33,5 @@ Ten GAISE Recommendations for Introductory Statistics and Data Science <https://
 Handouts from Day 2 - will be added later
 
 PowerPoint slides for Day 2 - will be added later
+
+[MAA Minicourse Evaluation form](https://docs.google.com/forms/d/e/1FAIpQLSd2JNOT09AWYlI-5S8q4QyMTYsV0GKn0AV7R921rexumXgHuw/viewform)
